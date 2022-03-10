@@ -5,6 +5,7 @@ public class Carro {
     private String marcaCarro;
     private String modeloCarro;
     private double precioCarro;
+    private String pruebaCommit;
 
     public Carro(String marcaCarro, String modeloCarro, double precioCarro) {
         this.marcaCarro = marcaCarro;
